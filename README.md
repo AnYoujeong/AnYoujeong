@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 #### ✅ i've used it 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> 
 
-#### practicing
+#### 🌱 practicing 🌱
 <img src="https://ghchart.rshah.org/FFD24C/AnYoujeong"/>
