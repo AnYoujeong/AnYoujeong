@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/> 
 
 #### PRACTICING
- <img src="http://mazandi.herokuapp.com/api?handle={ayj96}&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle={박보검나잘생김}&theme=warm"/>
